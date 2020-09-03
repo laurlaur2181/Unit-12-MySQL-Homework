@@ -1,0 +1,27 @@
+{
+  "name": "Unit-12-MySQL-Homework",
+  "version": "1.0.0",
+  "description": "Employee Tracker",
+  "main": "node.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node node.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurlaur2181/Unit-12-MySQL-Homework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurlaur2181/Unit-12-MySQL-Homework/issues"
+  },
+  "homepage": "https://github.com/laurlaur2181/Unit-12-MySQL-Homework#readme"
+}
